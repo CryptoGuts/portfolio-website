@@ -32,7 +32,7 @@ const Portfolio = () => {
     {
       title: 'Web3 Design Agency Company',
       category: 'UI/UX Design',
-      image: '/assets/laptopdesign.jpg',
+      image: '/assets/LaptopDesign.jpg',
       description: 'This UI/UX design project exemplifies my expertise in creating responsive, user-centric designs. It highlights a modern approach to web design, blending bold aesthetics with functionality to deliver an engaging user experience.',
     },
   ];

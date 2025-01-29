@@ -13,21 +13,21 @@ const Blog = () => {
     {
       title: "Understanding AI and Crypto: Basics and Beyond",
       excerpt: "Dive into the intersection of artificial intelligence and cryptocurrency, exploring their fundamentals, use cases, and future potential in reshaping industries.",
-      image: "dist/assets/artificialintelligence.webp",
+      image: "/assets/artificialintelligence.webp",
       category: "Education",
       link: "https://blockchainedsnipers.substack.com/p/understanding-ai-and-crypto-basics"
     },
     {
       title: "The Bitcoin Halving: A Deep Dive",
       excerpt: "Uncover the mechanics and significance of Bitcoin halving events, their impact on price trends, and their role in shaping Bitcoin's future supply and demand.",
-      image: "dist/assets/bitcoinhalving.webp",
+      image: "/assets/bitcoinhalving.webp",
       category: "Bitcoin",
       link: "https://blockchainedsnipers.substack.com/p/the-bitcoin-halving-a-deep-dive"
     },
     {
       title: "Unlocking The Multiverse of Crypto",
       excerpt: "Explore the rising significance of blockchain interoperability, its impact on seamless asset transfers across networks, and how upcoming upgrades and real-world asset tokenization are driving the future of crypto ecosystems.",
-      image: "dist/assets/crosschaininteroperability.webp",
+      image: "/assets/crosschaininteroperability.webp",
       category: "Cross Chain Interoperability",
       link: "https://blockchainedsnipers.substack.com/p/unlocking-the-multiverse-of-crypto"
     }
