@@ -11,28 +11,28 @@ const Portfolio = () => {
     {
       title: 'Infographics of Projects',
       category: 'Graphic Design',
-      image: '../assets/infographics.png',
+      image: '/assets/infographics.png',
       description: 'These visually engaging infographics represent my ability to simplify complex crypto concepts and blockchain trends into clear, impactful visuals that resonate with audiences. This work highlights my skills in data visualization and graphic design.',
       link: 'https://x.com/crypt0_guts',
     },
     {
       title: 'Velo & BlackRock: A Game-Changing Integration Video',
       category: 'Video Editing',
-      image: '../assets/velo.jpeg',
+      image: '/assets/velo.jpeg',
       description: "This video showcases my ability to craft compelling narratives around major blockchain developments, like Velo Labs' integration of BlackRock's tokenized Short-Term Treasury Fund. It's a testament to my expertise in content creation and the crypto industry.",
       link: 'https://x.com/crypt0_guts/status/1834436821532770521',
     },
     {
       title: 'Crypto Fundamentals for Beginners: Ultimate Guide & eBook',
       category: 'E-Books',
-      image: '../assets/ebooks.jpg',
+      image: '/assets/ebooks.jpg',
       description: 'This comprehensive eBook is a cornerstone of my portfolio, demonstrating my ability to create accessible, beginner-friendly resources for mastering cryptocurrency, blockchain technology, DeFi, and Web3.',
       link: 'https://drive.google.com/file/d/1N2bS-FDKcJrzVqRijVT9EYj1UGAENRyl/view?usp=sharing',
     },
     {
       title: 'Web3 Design Agency Company',
       category: 'UI/UX Design',
-      image: '../assets/laptopdesign.jpg',
+      image: '/assets/laptopdesign.jpg',
       description: 'This UI/UX design project exemplifies my expertise in creating responsive, user-centric designs. It highlights a modern approach to web design, blending bold aesthetics with functionality to deliver an engaging user experience.',
     },
   ];

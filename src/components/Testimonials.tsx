@@ -14,31 +14,31 @@ const Testimonials = () => {
       quote: "Gut's in-depth educational content, security tips, and guides—Blockchained Snipers has become an essential resource for me to stay informed and make smart crypto decisions!",
       author: "BlockchainedBB",
       position: "Crypto Influencer, BlockchainedBB",
-      image: "../assets/blockchainedbb.jpg"
+      image: "/assets/blockchainedbb.jpg"
     },
     {
       quote: "Love the infographic content! The visual representations in Gut's newsletter break down complex concepts and trends into something simple and easy to understand.",
       author: "Sean Munn",
       position: "CMO, Three Protocol",
-      image: "../assets/sean.jpg"
+      image: "/assets/sean.jpg"
     },
     {
       quote: "We were truly impressed by Gut's in-depth coin reviews and the meticulous level of detail you bring to each project analysis.",
       author: "Mr Kwibs",
       position: "Community Manager, Zano",
-      image: "../assets/MrKwibs.jpg"
+      image: "/assets/MrKwibs.jpg"
     },
     {
       quote: "Gut's creates amazing content that breaks down complex crypto concepts into easy-to-understand insights.",
       author: "Cyn",
       position: "CEO, Dtravel",
-      image: "../assets/cyn.jpg"
+      image: "/assets/cyn.jpg"
     },
     {
       quote: "A fantastic showcase of creative work and innovative projects! Gut's consistently delivers high-quality, engaging videos that make complex topics accessible and fun to follow.",
       author: "Pure8",
       position: "Crypto Influencer",
-      image: "../assets/pure.jpg"
+      image: "/assets/pure.jpg"
     }
   ];
 
