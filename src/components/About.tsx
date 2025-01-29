@@ -76,7 +76,7 @@ const About = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-purple to-orange animate-spin-slow"></div>
               <div className="absolute inset-1 rounded-full bg-darkBlue"></div>
               <img
-                src="dist/assets/cryptoguts.jpg"
+                src="../assets/cryptoguts.jpg"
                 alt="Crypto Guts Profile"
                 className="absolute inset-1 rounded-full object-cover border-4 border-darkBlue"
               />
